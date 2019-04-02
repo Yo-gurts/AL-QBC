@@ -1,2 +1,4 @@
 # AL-QBC
-the implementation of  Query by Committee(QBC) algorithm of Active Learning
+the implementation of  Query by Committee(QBC) algorithm of Active Learning for gas classification
+
+
